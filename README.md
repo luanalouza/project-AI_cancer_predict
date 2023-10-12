@@ -28,3 +28,11 @@ quality control and detection of defects
 Supply chain optimization and demand forecasting
 Process efficiency and automation
 retail and e-commerce
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+instruction 
+open cancer_predictor_ai.ipynb
