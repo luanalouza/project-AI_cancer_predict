@@ -34,5 +34,6 @@ retail and e-commerce
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-instruction 
-open cancer_predictor_ai.ipynb
+Instruction 
+
+Open cancer_predictor_ai.ipynb
